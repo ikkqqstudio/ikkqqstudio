@@ -1,6 +1,12 @@
 ## HELLO there
 I like B.F.D.I. (idc about B.F.D.I. haters) And I'm Netural in most of the time!
 
+## OSes
+
+![Static Badge](https://img.shields.io/badge/Linux%20-%20PC%20-%20?style=plastic&logo=linux&logoColor=black&labelColor=%23FCC624&color=blue)
+![Static Badge](https://img.shields.io/badge/Android%20-%20Phone%20-%20?style=plastic&logo=android&logoColor=white&labelColor=%233DDC84&color=blue)
+![Static Badge](https://img.shields.io/badge/Debian%20-%20Linux%20Distro%20-%20?style=plastic&logo=Debian&logoColor=white&labelColor=%23A81D33&color=blue)
+
 ## My Coding Skills
 
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20-%20Expert%20-%20?style=plastic&logo=CSS&logoColor=white&labelColor=%23663399&color=%23264de4">   <img alt="Static Badge" src="https://img.shields.io/badge/Scratch%20-%20Expert%20-%20?style=plastic&logo=Scratch&logoColor=white&labelColor=%23f88307&color=%23264de4">  <img alt="Static Badge" src="https://img.shields.io/badge/HTML%20-%20Good%20-%20?style=plastic&logo=HTML5&logoColor=white&labelColor=%23e44d26">  <img alt="Static Badge" src="https://img.shields.io/badge/Markdown%20-%20Good%20-%20?style=plastic&logo=markdown&labelColor=yellow">
