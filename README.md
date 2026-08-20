@@ -30,13 +30,13 @@
 
 ###
 
-<div data-importer="profile-views" align="left">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:Ikkqqstudio?theme=original-old&padding=10&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
+<h1 data-importer="text" align="center">HELLO!</h1>
 
 ###
 
-<h1 data-importer="text" align="center">hey there 👋</h1>
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:Ikkqqstudio?theme=original-old&padding=10&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 ###
 
@@ -73,10 +73,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Ikkqqstudio/Ikkqqstudio/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/Ikkqqstudio/Ikkqqstudio/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Ikkqqstudio&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/Ikkqqstudio/Ikkqqstudio/trophy-output/trophy.svg?theme=buddhism" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/Ikkqqstudio/Ikkqqstudio/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ikkqqstudio&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
