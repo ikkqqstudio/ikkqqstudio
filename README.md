@@ -44,7 +44,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Ikkqq (Or You Can Call Me IronoNSC) (Not My Real Name, tho) Amd I'm from Thailand</p>
+<p data-importer="text" align="left">I'm Ikkqq (Or You Can Call Me IronoNSC) (Not My Real Name, tho) And I'm from Thailand</p>
 
 ###
 
